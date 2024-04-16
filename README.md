@@ -1,4 +1,4 @@
-# SentimentalAnalysis
+# Sentimental_Analysis_Primary_Task
 Model The provided code contains a trained model for sentiment analysis using the IMDb movie review dataset. The model is built using Keras with TensorFlow backend. The model architecture consists of an embedding layer, followed by an LSTM layer with 100 units, dropout layer with a rate of 0.5, and a dense layer with a sigmoid activation function. The model is trained for 5 epochs using binary cross-entropy loss and Adam optimizer.
 
 API The provided code contains an API that takes input from an HTML form, where the user can input their name, movie name, and review about that movie. The API predicts the sentiment of the review and displays the output in the output.html file.
